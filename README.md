@@ -1,8 +1,8 @@
-### Olá eu sou Vinícius Teixeira Fernandes
+### Hello! I'm Vinícius Teixeira Fernandes!
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando linguagem de programação Java
+- 🔭 Currently working with Front-End
+- 🌱 Studying Java Programming Language
 
 <div align="center">
   <a href="https://github.com/Teixeira007">
