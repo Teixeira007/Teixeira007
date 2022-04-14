@@ -3,6 +3,7 @@
 
 - 🔭 Currently working with Front-End
 - 🌱 Studying Java Programming Language
+- 🌱 Studying JavaScript Programming Language
 
 <div align="center">
   <a href="https://github.com/Teixeira007">
