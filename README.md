@@ -4,7 +4,7 @@
 - 🔭 Currently working with Front-End
 - 🌱 Studying Java Programming Language
 - 🌱 Studying JavaScript Programming Language
-- 🌱 Studying Sbring Boot
+- 🌱 Studying Spring Boot
 
 <div align="center">
   <a href="https://github.com/Teixeira007">
