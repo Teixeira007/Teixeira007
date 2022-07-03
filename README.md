@@ -1,8 +1,7 @@
 ### Hello! I'm Vinícius Teixeira Fernandes!
 
 
-- 🔭 Currently working with Front-End
-- 🌱 Studying Java Programming Language
+- 🔭 Currently working with Back-End
 - 🌱 Studying JavaScript Programming Language
 - 🌱 Studying Spring Boot
 
