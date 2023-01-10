@@ -2,7 +2,6 @@
 
 
 - 🔭 Currently working with Back-End
-- 🌱 Studying JavaScript Programming Language
 - 🌱 Studying Spring Boot
 
 <div align="center">
