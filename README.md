@@ -1,7 +1,7 @@
 ### Hello! I'm Vinícius Teixeira Fernandes!
 
 
-- 🔭 Currently working with Back-End
+- 🔭 Currently working with Full-Stack
 - 🌱 Studying Spring Boot
 
 <div align="center">
