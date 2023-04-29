@@ -3,6 +3,7 @@
 
 - 🔭 Currently working with Full-Stack
 - 🌱 Studying Spring Boot
+- 🌱 Studying Android
 
 <div align="center">
   <a href="https://github.com/Teixeira007">
