@@ -1,10 +1,6 @@
 ### Hello! I'm Vinícius Teixeira Fernandes!
 
 
-- 🔭 Currently working with Full-Stack
-- 🌱 Studying Spring Boot
-- 🌱 Studying Android
-
 <div align="center">
   <a href="https://github.com/Teixeira007">
 <!--   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Teixeira007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
